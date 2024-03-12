@@ -1,0 +1,42 @@
+Name: Shreya Sadashiva Kamath
+USC ID: 7553148882
+News site crawled: latimes.com
+Number of threads: 16
+
+Fetch Statistics
+================
+fetches attempted: 19995
+fetches succeeded: 19781
+fetches failed or aborted: 214
+
+Outgoing URLs:
+==============
+Total URLs extracted: 4255008
+# unique URLs extracted: 1551418
+# unique URLs within News Site: 247495
+# unique URLs outside News Site: 1303923
+
+Status Codes:
+=============
+200 OK: 19781
+301 Moved Permanently: 50
+302 Found: 26
+307 Temporary Redirect: 129
+404 Not Found: 9
+
+File Size:
+=============
+Files smaller than 1KB: 9
+Files between 1KB and less than 10KB: 149
+Files between 10KB and less than 100KB: 726
+Files between 100KB and less than 1MB: 18879
+Files greater than or equal to 1MB: 18
+
+Content Types:
+==============
+application/font-woff2: 1
+application/octet-stream: 2
+font/woff2: 7
+image/jpeg: 286
+image/png: 45
+text/html: 19440
