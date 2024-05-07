@@ -1,0 +1,19 @@
+Example 1: Query-> Is agriculture really good occupation?
+....................................................................................................
+Retrieved document:
+----------------------------------------------------------------------------------------------------
+
+
+Expanding populations, income growth and urbanization have brought about quantitative and qualitative changes in the demand for food, which has propelled the development of agro-industrial production and market chains. The development of these chains has implications in a number of areas, including the allocation and use of natural resources, input factors and labour. Small and medium enterprises account for a large and growing share of the agricultural sector’s value added and employment in low- and middle-income countries. Off-farm activities, such as handling, packaging, processing, transporting and marketing of food and agricultural products, provide multiple opportunities for employment. By increasing the demand for raw agricultural commodities, agro-industries help increase farmers’ incomes (FAO and UNIDO, 2009). In many areas of sub-Saharan Africa, the value of agro-industries as a share of total manufacturing is significant, accounting for up to 60 percent in some countries (Roepstorff, Wiggins and Hawkins, 2011).
+----------------------------------------------------------------------------------------------------
+metadata: {'source': 'example_data/food.pdf'}
+==================================================================================================== 
+
+
+Example 2: Query-> How many farmers are there in USA?
+....................................................................................................
+Retrieved document:
+----------------------------------------------------------------------------------------------------
+past 20 years, while the share of agricultural employment declined from 24 to 9 percent. In Mexico, between 1990 and 2013, agriculture’s share of GDP fell from 7 percent to 3.5 percent and its employment share by half, from 12 to 6 percent. Labour productivity nearly doubled in both countries and more than quadrupled in Argentina. Overall income and agricultural productivity growth contributed to declining poverty rates. However, in the early 1980s, 74 million of a total rural population of 124 million were poor, and 41 million could not meet their food needs. By 2010, the numbers were 62 million, 119 million, and 39 million, respectively. While some countries saw important reductions in rural poverty, most have not significantly reduced the absolute number of poor people. High-income inequality has impeded the sharing of aggregate income growth with the poor. Many countries have extensive
+----------------------------------------------------------------------------------------------------
+metadata: {'source': 'example_data/food.pdf'}

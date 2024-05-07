@@ -1,0 +1,57 @@
+[
+  {
+    "CustomCategory": "Science",
+    "CustomQuestion": "Changes in the tropospheric layer of this are what gives us weather",
+    "CustomAnswer": "the atmosphere"
+  },
+  {
+    "CustomCategory": "History",
+    "CustomQuestion": "Who was the first President of the United States?",
+    "CustomAnswer": "George Washington"
+  },
+  {
+    "CustomCategory": "Geography",
+    "CustomQuestion": "Which ocean is the largest?",
+    "CustomAnswer": "Pacific Ocean"
+  },
+  {
+    "CustomCategory": "Literature",
+    "CustomQuestion": "Who wrote 'To Kill a Mockingbird'?",
+    "CustomAnswer": "Harper Lee"
+  },
+  {
+    "CustomCategory": "Music",
+    "CustomQuestion": "Which band released the album 'The Dark Side of the Moon'?",
+    "CustomAnswer": "Pink Floyd"
+  },
+  {
+    "CustomCategory": "Sports",
+    "CustomQuestion": "Which sport is played in Wimbledon?",
+    "CustomAnswer": "Tennis"
+  },
+  {
+    "CustomCategory": "Technology",
+    "CustomQuestion": "What is the programming language used for building web pages?",
+    "CustomAnswer": "HTML"
+  },
+  {
+    "CustomCategory": "Movies",
+    "CustomQuestion": "Who directed the movie 'Inception'?",
+    "CustomAnswer": "Christopher Nolan"
+  },
+  {
+    "CustomCategory": "Food",
+    "CustomQuestion": "What is the main ingredient in guacamole?",
+    "CustomAnswer": "Avocado"
+  },
+  {
+    "CustomCategory": "Art",
+    "CustomQuestion": "Who painted the 'Mona Lisa'?",
+    "CustomAnswer": "Leonardo da Vinci"
+  },
+  {
+    "CustomCategory": " Sports",
+    "CustomQuestion": "Where is 2024 olympics",
+    "CustomAnswer": "Paris"
+  }
+]
